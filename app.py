@@ -21,9 +21,9 @@ import os
 os.chdir('/Users/subham/Desktop/ImageCaptioning/Flickr8k')
 
 
-from image_captnng import *
+from image_captioning import *
 
-# https://www.tutorialspoint.com/flask
+
 import flask
 app = Flask(__name__)
 
